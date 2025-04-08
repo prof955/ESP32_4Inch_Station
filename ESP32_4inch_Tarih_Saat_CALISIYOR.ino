@@ -8,8 +8,8 @@
 #include "TAMC_GT911.h" // Include touch header explicitly
 
 // --- Wi-Fi & NTP ---
-const char* ssid = "_________"; // <<< YOUR WIFI SSID
-const char* password = "Otsoc1954"; // <<< YOUR WIFI PASSWORD
+const char* ssid = "TESTTEST"; // <<< YOUR WIFI SSID
+const char* password = "TESTTEST"; // <<< YOUR WIFI PASSWORD
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 3 * 3600;
 const int   daylightOffset_sec = 0;
